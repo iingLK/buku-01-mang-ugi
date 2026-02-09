@@ -24,7 +24,7 @@ graph TD
 ```
 
 
-> [!NOTE] Catatan LKO
+> [!NOTE]
 > Ini kalau menurut LKO, perlu dijelaskan juga terkait perbedaan teori dan teorema yang hubungannya dengan validasi kebenaran. Ini menurut saya bisa menjelaskan terkait hubungan satu sama lain dan harapannya adalah bisa memetakan puzzle yang ada.
 
 ```mermaid
@@ -118,5 +118,6 @@ h20, kosong adalah isi, isi adalah kosong. richard feynman
 model adalah percobaan replikasi bentuk nyata ke dalam bentuk matematis, dengN batasan tertentu utk bs memprediksi
 
 
-> [!message] 20260209 Joplin to obsidian
+> [!WARNING]
+> 20260209 Joplin to obsidian
 > Dari joplin, saya pindah ke obsidian untuk editing.
