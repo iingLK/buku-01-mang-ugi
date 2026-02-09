@@ -1,6 +1,7 @@
 # buku-01-mang-ugi
 Komentar setelah membaca buku mang ugi
-> [!TIP] h3, pp11
+> [!TIP] 
+> **h3, pp11**
 > Saya sering mengingat ada 3 (tiga) hal mendasar bernama euqilibrium dan kompatibilitas. Ternyata yang ketiga-nya teringatkan kembali setelah membaca ini, yaitu *constitutive law*. Terima kasih sudah mengingatkan.
 ```mermaid
 graph TD
